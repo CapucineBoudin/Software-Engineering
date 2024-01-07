@@ -17,12 +17,15 @@ II. How to install and run the project
 III. How to use the project
 1. Create a Flash Card :
   - Click the "Add" Button
+    
     ![image](https://github.com/CapucineBoudin/Software-Engineering/assets/155239743/5da308f7-3c10-4b43-b22b-e0a82808f989)
+    
   - Enter the name of your flashCard (for example the name of a subject such as "Maths")
 
   - Enter the question (for example for math : 1+1)
   - Enter the answer (in this case, 2)
   - Click ont the button "save"
+    
     ![image](https://github.com/CapucineBoudin/Software-Engineering/assets/155239743/528c34f5-6716-40da-94f6-1c34b7f2e6f2)
 
 2. Revise your FlashCard :
@@ -39,12 +42,14 @@ III. How to use the project
 
    - Everytime you add a new card, the section "isNew" in the table will tell initialized as "Yes" to tell you the card is New. If it's not, then it will be initialized at "False"
    - Everytime you learn a flashcard, the "learn" section in the table will increase by one to show you how many times you went to revise that card
+     
      ![image](https://github.com/CapucineBoudin/Software-Engineering/assets/155239743/d98c1677-9f56-495a-8805-e7c4c54038a5)
      
 
 4. Delete a Flashcard :
 
    - Click the trashcan icon at the very left of the table, in the row of the card you want to delete.
+     
    ![image](https://github.com/CapucineBoudin/Software-Engineering/assets/155239743/c7d28043-6cb4-468e-8ce5-1454373444cc)
 
 
