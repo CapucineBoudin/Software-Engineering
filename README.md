@@ -28,22 +28,24 @@ III. How to use the project
 2. Revise your FlashCard :
 
     - Click the book Icon on the left of the table, in the row of the subject you want to revise
+    - The question will pop up. Once you are ready to see the answer click on the button "Show Answer"
 
       ![image](https://github.com/CapucineBoudin/Software-Engineering/assets/155239743/49bc75aa-671e-4993-ab0c-80393a7f22fd)
 
-   - The question will pop up. Once you are ready to see the answer click on the button "Show Answer"
-     ![image](https://github.com/CapucineBoudin/Software-Engineering/assets/155239743/d98c1677-9f56-495a-8805-e7c4c54038a5)
+   
+     
 
 3. See your progress :
 
    - Everytime you add a new card, the section "isNew" in the table will tell initialized as "Yes" to tell you the card is New. If it's not, then it will be initialized at "False"
    - Everytime you learn a flashcard, the "learn" section in the table will increase by one to show you how many times you went to revise that card
-     ![image](https://github.com/CapucineBoudin/Software-Engineering/assets/155239743/c7d28043-6cb4-468e-8ce5-1454373444cc)
+     ![image](https://github.com/CapucineBoudin/Software-Engineering/assets/155239743/d98c1677-9f56-495a-8805-e7c4c54038a5)
+     
 
 4. Delete a Flashcard :
 
    - Click the trashcan icon at the very left of the table, in the row of the card you want to delete.
-   - ![Uploading image.png…]()
+   ![image](https://github.com/CapucineBoudin/Software-Engineering/assets/155239743/c7d28043-6cb4-468e-8ce5-1454373444cc)
 
 
 
